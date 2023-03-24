@@ -10,4 +10,4 @@
 
 ## UIProgression3
 
-![https://github.com/megaganjotsingh/SwiftUIExercises/blob/main/UIProgression3/Gif/UIProgression3.gif]
+![UIProgression3](https://github.com/megaganjotsingh/SwiftUIExercises/blob/main/UIProgression3/Gif/UIProgression3.gif)
